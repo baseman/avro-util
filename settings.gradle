@@ -1,3 +1,5 @@
 rootProject.name = 'avro-util'
 
+include ':event-player'
 include ':avro-serialization'
+include ':avro-gradle-util'
